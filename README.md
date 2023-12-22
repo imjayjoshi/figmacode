@@ -3,22 +3,22 @@
 #                        < !! HTML CODE !!>
 
 # FOR DRAW A BIG SQUARE
-<div style="width: 550px; height: 550px; position: relative; background: #4E41E3"></div>
+<div class="Frame1" style="width: 100%; height: 100%; position: relative; background: #4E41E3"></div>
 
 # FOR DRAW A BIG ROUNDS
-<div style="width: 876px; height: 886px; position: relative">
-  <div style="width: 292px; height: 296px; left: 0px; top: 590px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
-  <div style="width: 292px; height: 296px; left: 0px; top: 0px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
-  <div style="width: 292px; height: 296px; left: 584px; top: 590px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
-  <div style="width: 292px; height: 296px; left: 584px; top: 0px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
+<div class="Round" style="width: 100%; height: 100%; position: relative">
+    <div class="Ellipse6" style="width: 292px; height: 296px; left: 0px; top: 590px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
+    <div class="Ellipse5" style="width: 292px; height: 296px; left: 0px; top: 0px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
+    <div class="Ellipse3" style="width: 292px; height: 296px; left: 584px; top: 590px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
+    <div class="Ellipse2" style="width: 292px; height: 296px; left: 584px; top: 0px; position: absolute; background: #C0BCF1; border-radius: 9999px"></div>
 </div>
 
 # FOR DRAW A BIG RECTANGLE
-<div style="width: 775px; height: 775px; position: relative">
-  <div style="width: 68px; height: 173.67px; left: 361px; top: 0px; position: absolute; background: #FF0000"></div>
-  <div style="width: 68px; height: 173.67px; left: 361px; top: 601.33px; position: absolute; background: #FF0000"></div>
-  <div style="width: 68.26px; height: 173px; left: 775px; top: 347.34px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: #FF0000"></div>
-  <div style="width: 68.26px; height: 173px; left: 173px; top: 347.34px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: #FF0000"></div>
+<div class="Rectangle" style="width: 100%; height: 100%; position: relative">
+    <div class="Rectangle1" style="width: 68px; height: 173.67px; left: 361px; top: 0px; position: absolute; background: #FF0000"></div>
+    <div class="Rectangle4" style="width: 68px; height: 173.67px; left: 361px; top: 601.33px; position: absolute; background: #FF0000"></div>
+    <div class="Rectangle2" style="width: 68.26px; height: 173px; left: 775px; top: 347.34px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: #FF0000"></div>
+    <div class="Rectangle3" style="width: 68.26px; height: 173px; left: 173px; top: 347.34px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; background: #FF0000"></div>
 </div>
 
 # FOR DRAW A INSIDE DESIGN
